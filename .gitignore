@@ -1,3 +1,9 @@
 action.sh
 .DS_Store
 *.local
+node_modules
+tgstickers
+mise.toml
+package.json
+package-lock.json
+ungzip-telegram-sticker.js
