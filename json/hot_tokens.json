@@ -33,5 +33,14 @@
         "icon": "https://major.bot/images/tasks/major_logo.svg",
         "decimals": 9,
         "addr": "EQCuPm01HldiduQ55xaBF_1kaW_WAUy5DHey8suqzU_MAJOR"
+    },
+    {
+        "chainKey": "tron",
+        "name": "SUN TOKEN",
+        "description": "",
+        "symbol": "SUN",
+        "icon": "https://static.tronscan.org/production/logo/TSSMHYeV2uE9qYH95DqyoCuNCzEL1NvU3S.png",
+        "decimals": 18,
+        "addr": "TSSMHYeV2uE9qYH95DqyoCuNCzEL1NvU3S"
     }
 ]
