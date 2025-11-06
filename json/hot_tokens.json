@@ -1,0 +1,95 @@
+[
+    {
+        "chainKey": "ton",
+        "name": "Tether USD",
+        "symbol": "USD",
+        "decimals": 9,
+        "addr": "EQCxE6mUtQJKFnGfaROTKOt1lZbDiiX1kCixRv7Nw2Id_sDs",
+        "icon": "https://api.tonscan.com/api/bt/nftImage?key=65819fc49ecd22c3209f69bb23a69ac4&url=https%3A%2F%2Ftether.to%2Fimages%2FlogoCircle.png"
+    },
+    {
+        "chainKey": "ton",
+        "name": "Dogs",
+        "description": "",
+        "symbol": "DOGS",
+        "decimals": "9",
+        "addr": "EQCvxJy4eG8hyHBFsZ7eePxrRsUQSFE_jpptRAYBmcG_DOGS",
+        "icon": "https://cdn.dogs.dev/dogs.png"
+    },
+    {
+        "chainKey": "ton",
+        "addr": "EQCAj5oiRRrXokYsg_B-e0KG9xMwh5upr5I8HQzErm0_BLUM",
+        "icon": "https://cdn.blum.codes/93b002b2-26c1-481b-9d2d-da5e55437e21/1d8a7194-b8ff-4475-87d3-f41be69cf50f",
+        "name": "Blum",
+        "symbol": "BLUM",
+        "description": "Blum Token",
+        "decimals": "9"
+    },
+    {
+        "chainKey": "ton",
+        "name": "Major",
+        "description": "",
+        "symbol": "MAJOR",
+        "icon": "https://major.bot/images/tasks/major_logo.svg",
+        "decimals": 9,
+        "addr": "EQCuPm01HldiduQ55xaBF_1kaW_WAUy5DHey8suqzU_MAJOR"
+    },
+    {
+        "chainKey": "tron",
+        "name": "SUN TOKEN",
+        "description": "",
+        "symbol": "SUN",
+        "icon": "https://static.tronscan.org/production/logo/TSSMHYeV2uE9qYH95DqyoCuNCzEL1NvU3S.png",
+        "decimals": 18,
+        "addr": "TSSMHYeV2uE9qYH95DqyoCuNCzEL1NvU3S"
+    },
+
+
+
+    
+    {
+        "chainKey": "evm_1",
+        "name": "Tether",
+        "symbol": "USDT",
+        "decimals": 6,
+        "addr": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+        "icon": "https://asset-gdex.ourdex.com/blockchains/bnbchain/assets/0x55d398326f99059ff775485246999027b3197955/logo.png"
+    },
+    {
+        "chainKey": "evm_1",
+        "name": "USD Coin",
+        "symbol": "USDC",
+        "decimals": 6,
+        "addr": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+        "icon": "https://asset-gdex.ourdex.com/blockchains/bnbchain/assets/0x8ac76a51cc950d9822d68b83fe1ad97b32cd580d/logo.png"
+    },
+
+
+    {
+        "chainKey": "evm_56",
+        "name": "Tether",
+        "symbol": "USDT",
+        "decimals": 6,
+        "addr": "0x55d398326f99059ff775485246999027b3197955",
+        "icon": "https://asset-gdex.ourdex.com/blockchains/bnbchain/assets/0x55d398326f99059ff775485246999027b3197955/logo.png"
+    },
+
+    {
+        "chainKey": "evm_56",
+        "name": "USD Coin",
+        "symbol": "USDC",
+        "decimals": 6,
+        "addr": "0x8ac76a51cc950d9822d68b83fe1ad97b32cd580d",
+        "icon": "https://asset-gdex.ourdex.com/blockchains/bnbchain/assets/0x8ac76a51cc950d9822d68b83fe1ad97b32cd580d/logo.png"
+    },
+
+    {
+        "chainKey": "evm_56",
+        "name": "Binance USD",
+        "symbol": "BUSD",
+        "decimals": 6,
+        "addr": "0xe9e7cea3dedca5984780bafc599bd69add087d56",
+        "icon": "https://bscscan.com/token/images/busd_32_2.png"
+    }
+
+]
